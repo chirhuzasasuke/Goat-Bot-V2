@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "pmld3100@gmail.com",
+		"password": "15866292",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -12,13 +12,13 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "🦄𝑩𝑨𝑹𝑩𝑰𝑬-𝑩𝑶𝑻🦄",
+	"prefix": "'",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [100085261760009],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
