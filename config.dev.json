@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "pmld3100@gmail.com",
-		"password": "15866292",
+		"email": "chirhuzasasuke@gmail.com",
+		"password": "19602008",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,7 +18,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [100085261760009],
+	"adminBot": [100094279363927],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
